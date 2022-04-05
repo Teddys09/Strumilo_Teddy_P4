@@ -655,6 +655,9 @@ a {
   font-weight: 400;
   color: #575757 !important;
 }
+li a {
+  color: #414141 !important;
+}
 
 .container {
   max-width: 1000px;
